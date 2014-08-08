@@ -26,5 +26,14 @@
         "bootstrap": "~3.0.3",
         "expect": "0.1.2",
         "mocha": "~1.17.0"
-    }
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "spec",
+        "src",
+        "*.json",
+        "*.js",
+        "index.html"
+    ]
 }
